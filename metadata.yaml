@@ -1,4 +1,4 @@
-_repo: The-Declaration-of-Independence-of-the-United-States-of-America_1
+_repo: United-States-Declaration-of-Independence_1
 _version: 0.0.1
 creator:
   author:
@@ -13,8 +13,8 @@ description: "This is the original PG edition.\r\nSee also our revised edition: 
   \nSee also #300"
 gutenberg_bookshelf:
 - Politics
-- American Revolutionary War
 - United States Law
+- American Revolutionary War
 gutenberg_issued: '1971-12-01'
 gutenberg_type: Text
 identifiers:
@@ -24,10 +24,10 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- !lcc 'JK'
-- !lcsh 'United States. Declaration of Independence'
 - !lcc 'E201'
 - !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+- !lcsh 'United States. Declaration of Independence'
+- !lcc 'JK'
 - GITenberg
 title: The Declaration of Independence of the United States of America
 url: http://www.gutenberg.org/ebooks/1
