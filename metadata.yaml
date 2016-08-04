@@ -1,0 +1,33 @@
+_repo: The-Declaration-of-Independence-of-the-United-States-of-America_1
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jefferson, Thomas
+    alias: United States President (1801-1809)
+    birthdate: 1743
+    deathdate: 1826
+    gutenberg_agent_id: '1638'
+    url: http://www.gutenberg.org/2009/agents/1638
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
+description: "This is the original PG edition.\r\nSee also our revised edition: #16780\r\
+  \nSee also #300"
+gutenberg_bookshelf:
+- Politics
+- American Revolutionary War
+- United States Law
+gutenberg_issued: '1971-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'United States. Declaration of Independence'
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Sources'
+- GITenberg
+title: The Declaration of Independence of the United States of America
+url: http://www.gutenberg.org/ebooks/1
